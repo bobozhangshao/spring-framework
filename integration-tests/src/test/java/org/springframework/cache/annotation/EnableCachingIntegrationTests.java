@@ -44,6 +44,9 @@ import static org.assertj.core.api.Assertions.assertThatExceptionOfType;
  */
 @SuppressWarnings("resource")
 class EnableCachingIntegrationTests {
+	/**
+	 * 好牛掰的spring,test
+	 */
 
 	@Test
 	void repositoryIsClassBasedCacheProxy() {
